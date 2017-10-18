@@ -1,2 +1,2 @@
 # py-machine-learning
-Python machine learning repository
+This is a repository for Python machine learning
